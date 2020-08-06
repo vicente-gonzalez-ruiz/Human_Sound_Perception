@@ -1,1 +1,1 @@
-[Click me](https://cdn.rawgit.com/vicente-gonzalez-ruiz/human_sound_perception/master/index.html).
+[Click me](https://vicente-gonzalez-ruiz.github.io/human_sound_perception/).
